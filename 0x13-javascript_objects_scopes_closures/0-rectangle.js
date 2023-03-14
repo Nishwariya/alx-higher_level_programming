@@ -4,5 +4,4 @@
  * This defines a Rectangle.
  */
 
-class Rectangle:
-    pass
+module.exports = class Rectangle {};
